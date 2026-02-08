@@ -1,6 +1,6 @@
 # Container Deployment and Rollback Automation System
 
-![System Class Diagram](classes.png)
+![System Class Diagram](../diagrams/uml/classes.png)
 
 This document provides a technical overview of the classes within the Container Deployment and Rollback Automation System. 
 
